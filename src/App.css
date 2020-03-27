@@ -62,7 +62,7 @@ body {
 .rooms-list > ul {
   list-style-type: none;
   padding: 0;
-  overflow: scoll;
+  overflow: scroll;
 }
 
 .rooms-list li {
